@@ -52,7 +52,7 @@ In order to **optimise platform efficiency** and **customer satisfaction**, it d
 
 ---
 
-### **Step 4: Repeat for All CSVs**
+### **Step 4: Create Measures**
 
 * Important measures will also be added.
 ```
