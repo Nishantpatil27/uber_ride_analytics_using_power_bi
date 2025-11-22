@@ -87,7 +87,7 @@ total_revenue = SUM(ncr_ride_bookings[Booking Value])
 
  ---
 
-## 📌 Dashborad & Report Overview
+## 📌 Dashboard & Report Overview
 <img width="1920" height="1020" alt="Screenshot 2025-11-06 145404" src="https://github.com/user-attachments/assets/aa992805-c6e0-4cea-b9c3-5acfe03cd718" />
 
 <img width="1920" height="1020" alt="Screenshot 2025-11-06 145417" src="https://github.com/user-attachments/assets/e6eac881-45c5-4580-8385-f9bac805e83a" />
